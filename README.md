@@ -1,6 +1,6 @@
 # SalesAnalysisExcel
-Sales Analysis Dashboard README
-Overview:
+
+- Overview:
 This Sales Analysis Dashboard is designed to provide a comprehensive overview of company metrics, enabling users to analyze sales data by various dimensions such as year, month, region, and other relevant factors.
 
 - Features:
